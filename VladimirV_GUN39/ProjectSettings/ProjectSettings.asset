@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: c71b2ffaf169e6447a9b5fe30843d5a9
+  productGUID: 0c1d30d5e57549346b62bbd8b02fff07
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -759,10 +759,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 09f9a23f-2893-44df-a3b2-083fa03b3db1
+  cloudProjectId: 099d5292-7ea3-482f-a3c4-6cdfa285c549
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: VladimirV_GUN39
+  projectName: VladimirV_GUN39 2025-09-11_23-20-34
   organizationId: unity_be7747590facbd79207b
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
